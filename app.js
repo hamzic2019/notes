@@ -1,5 +1,5 @@
 const notes = require('./notes.js');
-const yargs = require('yargs');
+const yargs = require('yargs'); //
 
 let _ = console.log;
 
